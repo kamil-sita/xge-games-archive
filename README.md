@@ -20,7 +20,7 @@ XGE is a very simple object oriented game engine. Main concepts include:
 
 3. Floodtown 0.2
 Improved version of Floodtown 0.2. Balance changes, bugfixes, tutorial, split between engine part and game part.
-![Floodtown 0.2 Screenshot](screenshots/floodtown 02.jpg?raw=true "Title")
+![Floodtown 0.2 Screenshot](screenshots/floodtown02.jpg?raw=true "Title")
  
 4. Warpaint
 Simple rock-paper-scissors-like game in which you are producing tanks that fight enemy tanks. No end-goal.
